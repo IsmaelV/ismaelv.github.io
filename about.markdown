@@ -2,6 +2,7 @@
 layout: single
 title: About
 permalink: /about/
+author: Ismael Villegas Molina
 ---
 
 # ¡Hola, soy Ismael!
