@@ -3,7 +3,7 @@ layout: single
 title:  "Hello World!"
 date:   2020-10-17 17:45:20 -0700
 author: Ismael Villegas
-categories: jekyll update
+categories: update
 ---
 Hey y'all! Ismael here. This is the first update post on my website, and I hope that you can find some really interesting things here!
 
