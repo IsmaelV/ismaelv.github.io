@@ -5,10 +5,10 @@ permalink: /research/
 author: Ismael Villegas Molina
 ---
 
-# Publications
+## Publications
 You can follow me and my most recent work on my [Google Scholar](https://scholar.google.com/citations?user=TkMMILwAAAAJ&hl=en) page!
 
-# Interests
+## Interests
 I am primarily interested in computer science through the context of diversity and inclusion. What does that mean? Doesn't that encompass so much? Well, yea! I am very interested in the many ways that computer science interacts with diversity problems not only in the systems that we create, but also in terms of the industry with inclusion. But if you're still a bit unsure as to what I mean, here's a quick list of ideas that I'd like to study:
 * Representation in computer systems
 	* Virtual Humans
