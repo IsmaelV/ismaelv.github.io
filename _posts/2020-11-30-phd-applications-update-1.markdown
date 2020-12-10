@@ -3,7 +3,7 @@ layout: single
 title:  "PhD Applications Update 1"
 date:   2020-11-30 20:45:20 -0700
 author: Ismael Villegas
-categories: jekyll update
+categories: update phd-applications
 ---
 If you're reading this, then thank you for being a fan lol. I don't update on this much, but when I do it's kind of like a captain's log where I just freely write down what's going on in my mind when I finish a certain task. Nothing formal, nothing fancy, just talking lol.
 
