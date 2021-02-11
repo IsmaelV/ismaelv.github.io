@@ -19,6 +19,7 @@ Hey everybody! This is just another quick update for you all that I finished all
 * UCSD
 * USC
 * University of Utah
+
 These are all great institutions and I would love to be a part of any of them. I guess that's the end of the update lol. Thanks for keeping up.
 
 ¡Hasta la próxima!
