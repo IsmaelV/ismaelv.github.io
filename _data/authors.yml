@@ -3,9 +3,9 @@ Ismael Villegas Molina:
   bio: "Que onda?"
   avatar: "/assets/images/professional_picture.jpg"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ismaelvillegas3@gmail.com"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "mailto:ismaelvillegas3@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/IsmaelV"
