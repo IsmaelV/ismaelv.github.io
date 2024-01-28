@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 ¡Hola! Soy Ismael.
 
-I'm a doctoral student at the [University of California, San Diego](https://ucsd.edu/) in the [Computer Science and Engineering](https://cse.ucsd.edu/) department. My advisors are Gerald Soosai Raj, Leo Porter, and Bill Griswold in the [Computing Education Lab](https://sites.google.com/ucsd.edu/cs-ed-research-group/home?authuser=0). I study Computer Science Education (a.k.a. how can we best teach computer science to people) — specifically on the U.S.-based Latin American student experience.
+I'm a doctoral student at the [University of California, San Diego](https://ucsd.edu/) in the Computer Science and Engineering department. My advisors are Gerald Soosai Raj, Leo Porter, and Bill Griswold in the [Computing Education Lab](https://sites.google.com/ucsd.edu/cs-ed-research-group/home?authuser=0). I study Computer Science Education (a.k.a. how can we best teach computer science to people) — specifically on the U.S.-based Latin American student experience.
 
 My research invovles finding the best ways to teach to a U.S. Latin American audience. I've done this by teaching introductory computing courses to Latines and researching the effectivness of interventions to this population. The way that I've been tackling this is mainly through Culturally Relevant Computing techniques.
 
