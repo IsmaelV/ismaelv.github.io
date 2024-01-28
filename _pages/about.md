@@ -26,4 +26,3 @@ I'm a doctoral student at the [University of California, San Diego](https://ucsd
 My research invovles finding the best ways to teach to a U.S. Latin American audience. I've done this by teaching introductory computing courses to Latines and researching the effectivness of interventions to this population. The way that I've been tackling this is mainly through Culturally Relevant Computing techniques.
 
 Through my involvement with the [Computing Education Lab at UCSD](https://sites.google.com/ucsd.edu/cs-ed-research-group/home?authuser=0), I've worked on other projects such as tutor-student interactions, the struggles faced by introductory computing students, and the engagement of students on anonymous educational platforms (e.g., Piazza).
-
