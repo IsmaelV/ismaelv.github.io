@@ -1,199 +1,236 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Ismael Villegas Molina",
+    "label": "Ph.D. Student in Computer Science and Engineering",
+    "image": "assets/img/prof_pic.jpg",
+    "email": "ismaelvm@ucsd.edu",
+    "url": "https://IsmaelV.github.io/",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "city": "La Jolla",
       "countryCode": "US",
       "region": "California"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "ismaelvillegasmolina",
+        "url": "https://www.linkedin.com/in/ismaelvillegasmolina/"
+      },
+      {
+        "network": "GitHub",
+        "username": "IsmaelV",
+        "url": "github.com/IsmaelV"
       }
     ]
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "University of California, San Diego",
+      "location": "La Jolla, CA",
+      "url": "https://sites.google.com/ucsd.edu/cs-ed-research-group/home?authuser=0",
+      "area": "Computer Science and Engineering",
+      "studyType": "Ph.D.",
+      "startDate": "2021",
+      "endDate": "Exp: 2025",
+      "courses": [
+        "Computing Education Research Lab",
+      ]
+    },
+    {
+      "institution": "University of Southern California",
+      "location": "Los Angeles, CA",
+      "url": "https://www.usc.edu/",
+      "area": "Computer Science",
+      "studyType": "M.S.",
+      "startDate": "2019",
+      "endDate": "2021"
+    },
+    {
+      "institution": "Columbia University",
+      "location": "New York, NY",
+      "url": "https://www.columbia.edu/",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2015",
+      "endDate": "2019"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Gates Millennium Scholar",
+      "date": "2015",
+      "awarder": "Bill and Melinda Gates Foundation",
+      "summary": "Academic scholarship award and program for higher education, available to high-achieving ethnic minority students in the United States."
+    },
+    {
+      "title": "Hispanic Scholarship Fund Scholar",
+      "date": "2015",
+      "awarder": "Hispanic Scholarship Fund",
+      "summary": "Academic scholarship award and program for higher education, available to high-achieving Hispanic students in the United States."
+    },
+    {
+      "title": "GEM Fellow",
+      "date": "2019",
+      "awarder": "The National GEM Consortium",
+      "summary": "GEM offers MS and Ph.D. level students an outstanding opportunity and access to dozens of the top Engineering and Science firms and Universities in the nation. The GEM Fellowship was designed to focus on promoting opportunities for individuals to enter industry at the graduate level in areas such as research and development, product development, and other high level technical careers."
+    },
+    {
+      "title": "Sloan Fellow",
+      "date": "2021",
+      "awarder": "Alfred P. Sloan Foundation",
+    },
+    {
+      "title": "Norman A. Schefer Scholar",
+      "date": "2015",
+      "awarder": "Columbia University",
     }
   ],
-  "certificates": [
+  "work": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "The MITRE Corporation",
+      "position": "Graduate Research Scientist Intern",
+      "startDate": "2021",
+      "endDate": "2021",
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "Amazon",
+      "position": "Applied Science Research Intern",
+      "startDate": "2019",
+      "endDate": "2020",
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "name": "Goldman Sachs & Co.",
+      "position": "Summer Analyst",
+      "startDate": "2017",
+      "endDate": "2017",
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "The Jopes Foundation",
+      "position": "Founder; Co-President",
+      "startDate": "2010",
+      "endDate": "2015",
+      "summary": "A non-profit organization that aims to help underprivileged orphans in Mexico with an emphasis on Mexicali, BC and Tijuana, BC.",
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "organization": "Global Brigades, Water/Public Health Chapters - Columbia University",
+      "position": "Vice President; Internal and External Education Chair",
+      "startDate": "2017",
+      "endDate": "2018",
+      "summary": "Global group that visits developing countries that empowers communities to meet with health and economic goals through volunteers.",
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
+      "organization": "Society of Hispanic Professional Engineers - Columbia University",
+      "position": "Vice President; Treasurer",
+      "startDate": "2016",
+      "endDate": "2019",
+      "summary": "Prepare for renowned national conference and participate in skill building activities for interviews and networking events. Allocate and keep track of funds of the group. Working with school officials to fund travel to national conference and weekly meetings.",
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "organization": "Make-A-Wish Foundation",
+      "position": "Volunteer",
+      "startDate": "2019",
+      "endDate": "2020",
+      "summary": "Fulfill wishes for children diagnosed with critical illnesses. Rebuilt child’s backyard to playground in a single day while they went on a special trip with parents.",
+    },
+    {
+      "organization": "Columbia University",
+      "position": "Alma Mater Ambassador; Interviewer",
+      "startDate": "2018",
+      "endDate": "2018",
+      "summary": "Travel to underrepresented areas where Columbia University does not have immediate access to represent the institution and speak about college experience. Interview students applying to the university.",
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "The Effects of Spanish-English Bilingual Instruction in a CS0 Course for High School Students",
+      "authors": "I. Villegas Molina, A. Salguero, S. Zhong, A.G. Soosai Raj",
+      "publisher": "ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE)",
+      "releaseDate": "2023",
+      "url": "https://dl.acm.org/doi/pdf/10.1145/3587102.3588845",
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Student Expectations of Tutors in Computing Courses",
+      "authors": "R.S. Lim, S. Krause-Levy, I. Villegas Molina, L. Porter",
+      "publisher": "ACM Technical Symposium on Computer Science Education (SIGCSE)",
+      "releaseDate": "2023",
+      "url": "https://dl.acm.org/doi/pdf/10.1145/3545945.3569766",
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
+      "name": "Engagement and Anonymity In Online Computer Science Course Forums",
+      "authors": "M. Sharma, H. McTavish, Z. Peng, A. Shah, V. Agarwal, C. Sih, E. Hogan, I. Villegas Molina, A.G. Soosai Raj, K. Vaccaro",
+      "publisher": "ACM Conference on International Computing Education Research (ICER)",
+      "releaseDate": "2023",
+      "url": "https://dl.acm.org/doi/pdf/10.1145/3568813.3600121",
+    },
+    {
+      "name": "An exploration of student-tutor interactions in computing",
+      "authors": "S. Krause-Levy, R.S. Lim, I. Villegas Molina, Y. Cao, L. Porter",
+      "publisher": "ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE)",
+      "releaseDate": "2022",
+      "url": "https://dl.acm.org/doi/pdf/10.1145/3502718.3524786",
+    },
+    {
+      "name": "On the development of an acoustic-driven method to improve driver’s comfort based on deep reinforcement learning",
+      "authors": "E.R. Nascimento, R. Bajcsy, M. Gregor, I. Huang, I. Villegas, G. Kurillo",
+      "publisher": "IEEE Transactions on Intelligent Transportation Systems",
+      "releaseDate": "2020",
+      "url": "https://ieeexplore.ieee.org/ielaam/6979/9420410/9034475-aam.pdf",
+    },
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Programming Languages",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "Java",
+        "Javascript/JQuery",
+        "C/C++"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Spanish",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Native speaker",
       "icon": ""
-    }
-  ],
-  "interests": [
+    },
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "language": "French",
+      "fluency": "Elementary",
+      "icon": ""
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Professor Gerald Soosai Raj",
+      "reference": "Associate Professor; Computer Science and Engineering; University of California, San Diego"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Professor Leo Porter",
+      "reference": "Associate Professor; Computer Science and Engineering; University of California, San Diego"
+    },
+    {
+      "name": "Professor William G. Griswold",
+      "reference": "Full Professor; Computer Science and Engineering; University of California, San Diego"
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Understanding and Improving Computing Education for U.S. Latines",
+      "summary": "University of California, San Diego; La Jolla, California",
+      "highlights": [
+        "Literature review published on all studies for computing education with U.S. Latines",
+        "Created culturally relevant textbook for U.S. Latines",
+        "Teaching introductory programming courses in Summer 2022 through the Upward Bound program to high school Latine students"
+      ],
+      "startDate": "2021",
     }
   ]
 }
