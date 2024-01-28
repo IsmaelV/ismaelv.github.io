@@ -32,9 +32,7 @@
       "studyType": "Ph.D.",
       "startDate": "2021",
       "endDate": "Exp: 2025",
-      "courses": [
-        "Computing Education Research Lab",
-      ]
+      "courses": ["Computing Education Research Lab"]
     },
     {
       "institution": "University of Southern California",
@@ -77,12 +75,12 @@
     {
       "title": "Sloan Fellow",
       "date": "2021",
-      "awarder": "Alfred P. Sloan Foundation",
+      "awarder": "Alfred P. Sloan Foundation"
     },
     {
       "title": "Norman A. Schefer Scholar",
       "date": "2015",
-      "awarder": "Columbia University",
+      "awarder": "Columbia University"
     }
   ],
   "work": [
@@ -90,19 +88,19 @@
       "name": "The MITRE Corporation",
       "position": "Graduate Research Scientist Intern",
       "startDate": "2021",
-      "endDate": "2021",
+      "endDate": "2021"
     },
     {
       "name": "Amazon",
       "position": "Applied Science Research Intern",
       "startDate": "2019",
-      "endDate": "2020",
+      "endDate": "2020"
     },
     {
       "name": "Goldman Sachs & Co.",
       "position": "Summer Analyst",
       "startDate": "2017",
-      "endDate": "2017",
+      "endDate": "2017"
     }
   ],
   "volunteer": [
@@ -111,35 +109,35 @@
       "position": "Founder; Co-President",
       "startDate": "2010",
       "endDate": "2015",
-      "summary": "A non-profit organization that aims to help underprivileged orphans in Mexico with an emphasis on Mexicali, BC and Tijuana, BC.",
+      "summary": "A non-profit organization that aims to help underprivileged orphans in Mexico with an emphasis on Mexicali, BC and Tijuana, BC."
     },
     {
       "organization": "Global Brigades, Water/Public Health Chapters - Columbia University",
       "position": "Vice President; Internal and External Education Chair",
       "startDate": "2017",
       "endDate": "2018",
-      "summary": "Global group that visits developing countries that empowers communities to meet with health and economic goals through volunteers.",
+      "summary": "Global group that visits developing countries that empowers communities to meet with health and economic goals through volunteers."
     },
     {
       "organization": "Society of Hispanic Professional Engineers - Columbia University",
       "position": "Vice President; Treasurer",
       "startDate": "2016",
       "endDate": "2019",
-      "summary": "Prepare for renowned national conference and participate in skill building activities for interviews and networking events. Allocate and keep track of funds of the group. Working with school officials to fund travel to national conference and weekly meetings.",
+      "summary": "Prepare for renowned national conference and participate in skill building activities for interviews and networking events. Allocate and keep track of funds of the group. Working with school officials to fund travel to national conference and weekly meetings."
     },
     {
       "organization": "Make-A-Wish Foundation",
       "position": "Volunteer",
       "startDate": "2019",
       "endDate": "2020",
-      "summary": "Fulfill wishes for children diagnosed with critical illnesses. Rebuilt child’s backyard to playground in a single day while they went on a special trip with parents.",
+      "summary": "Fulfill wishes for children diagnosed with critical illnesses. Rebuilt child’s backyard to playground in a single day while they went on a special trip with parents."
     },
     {
       "organization": "Columbia University",
       "position": "Alma Mater Ambassador; Interviewer",
       "startDate": "2018",
       "endDate": "2018",
-      "summary": "Travel to underrepresented areas where Columbia University does not have immediate access to represent the institution and speak about college experience. Interview students applying to the university.",
+      "summary": "Travel to underrepresented areas where Columbia University does not have immediate access to represent the institution and speak about college experience. Interview students applying to the university."
     }
   ],
   "publications": [
@@ -148,46 +146,41 @@
       "authors": "I. Villegas Molina, A. Salguero, S. Zhong, A.G. Soosai Raj",
       "publisher": "ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE)",
       "releaseDate": "2023",
-      "url": "https://dl.acm.org/doi/pdf/10.1145/3587102.3588845",
+      "url": "https://dl.acm.org/doi/pdf/10.1145/3587102.3588845"
     },
     {
       "name": "Student Expectations of Tutors in Computing Courses",
       "authors": "R.S. Lim, S. Krause-Levy, I. Villegas Molina, L. Porter",
       "publisher": "ACM Technical Symposium on Computer Science Education (SIGCSE)",
       "releaseDate": "2023",
-      "url": "https://dl.acm.org/doi/pdf/10.1145/3545945.3569766",
+      "url": "https://dl.acm.org/doi/pdf/10.1145/3545945.3569766"
     },
     {
       "name": "Engagement and Anonymity In Online Computer Science Course Forums",
       "authors": "M. Sharma, H. McTavish, Z. Peng, A. Shah, V. Agarwal, C. Sih, E. Hogan, I. Villegas Molina, A.G. Soosai Raj, K. Vaccaro",
       "publisher": "ACM Conference on International Computing Education Research (ICER)",
       "releaseDate": "2023",
-      "url": "https://dl.acm.org/doi/pdf/10.1145/3568813.3600121",
+      "url": "https://dl.acm.org/doi/pdf/10.1145/3568813.3600121"
     },
     {
       "name": "An exploration of student-tutor interactions in computing",
       "authors": "S. Krause-Levy, R.S. Lim, I. Villegas Molina, Y. Cao, L. Porter",
       "publisher": "ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE)",
       "releaseDate": "2022",
-      "url": "https://dl.acm.org/doi/pdf/10.1145/3502718.3524786",
+      "url": "https://dl.acm.org/doi/pdf/10.1145/3502718.3524786"
     },
     {
       "name": "On the development of an acoustic-driven method to improve driver’s comfort based on deep reinforcement learning",
       "authors": "E.R. Nascimento, R. Bajcsy, M. Gregor, I. Huang, I. Villegas, G. Kurillo",
       "publisher": "IEEE Transactions on Intelligent Transportation Systems",
       "releaseDate": "2020",
-      "url": "https://ieeexplore.ieee.org/ielaam/6979/9420410/9034475-aam.pdf",
-    },
+      "url": "https://ieeexplore.ieee.org/ielaam/6979/9420410/9034475-aam.pdf"
+    }
   ],
   "skills": [
     {
       "name": "Programming Languages",
-      "keywords": [
-        "Python",
-        "Java",
-        "Javascript/JQuery",
-        "C/C++"
-      ]
+      "keywords": ["Python", "Java", "Javascript/JQuery", "C/C++"]
     }
   ],
   "languages": [
@@ -230,7 +223,7 @@
         "Created culturally relevant textbook for U.S. Latines",
         "Teaching introductory programming courses in Summer 2022 through the Upward Bound program to high school Latine students"
       ],
-      "startDate": "2021",
+      "startDate": "2021"
     }
   ]
 }
